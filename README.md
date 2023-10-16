@@ -2,7 +2,7 @@
 
 This project provides important information about total profit, total sales, average sales and total units sold for 2013 and 2014
 
-![](./financial_sales_analysis.JPG)
+![](./financial_sales_dashboard.JPG)
 
 The total sales for this firm was 118.73million (26.42million in 2013 and 92.31million in 2014).
 
